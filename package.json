@@ -21,8 +21,8 @@
     },
     "types": "./dist/cli.d.mts",
     "bin": {
-        "vite-ultra": "./bin/cli.js",
-        "vu": "./bin/cli.js"
+        "vite-ultra": "bin/cli.js",
+        "vu": "bin/cli.js"
     },
     "files": [
         "dist"
